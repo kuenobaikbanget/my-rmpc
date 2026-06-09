@@ -3,7 +3,7 @@
 This repo contains my personal config for [rmpc](https://github.com/sonodima/rmpc), a terminal client for MPD. I wanted something simple, comfortable to use, clean-looking, and a little nicer with a visualizer at the bottom.
 
 <div align="center">
-  <img src="./@rmpc.png" alt="rmpc screenshot" width="900" />
+  <img src="/rmpc.png" alt="rmpc screenshot" width="900" />
 </div>
 
 ## What's inside
