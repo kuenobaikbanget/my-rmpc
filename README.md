@@ -10,7 +10,6 @@ This repo contains my personal config for [rmpc](https://github.com/sonodima/rmp
 
 - `config.ron` — my main rmpc configuration.
 - `themes/` — custom themes. Right now I use `pinkblueish`.
-- `@rmpc.png` — screenshot of my rmpc setup.
 
 ## My setup
 
