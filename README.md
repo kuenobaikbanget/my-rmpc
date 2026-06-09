@@ -1,10 +1,10 @@
-# my rmpc config
+# My rmpc config saya
 
 This repo contains my personal config for [rmpc](https://github.com/sonodima/rmpc), a terminal client for MPD. I wanted something simple, comfortable to use, clean-looking, and a little nicer with a visualizer at the bottom.
 
 <div align="center">
-  <img src="/rmpc.png" alt="rmpc screenshot" width="900" />
-</div>
+  <img width="480" height="300" alt="rmpc" src="https://github.com/user-attachments/assets/eb568d57-9998-4d22-a2d8-6ce8a1e07268" />                                     
+</div>  
 
 ## What's inside
 
